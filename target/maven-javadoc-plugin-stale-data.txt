@@ -1,0 +1,62 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/sucel/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/12.4.2.jre11/mssql-jdbc-12.4.2.jre11.jar;C:/Users/sucel/.m2/repository/org/hibernate/orm/hibernate-core/6.4.0.Final/hibernate-core-6.4.0.Final.jar;C:/Users/sucel/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/sucel/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/sucel/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar;C:/Users/sucel/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/sucel/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar;C:/Users/sucel/.m2/repository/org/glassfish/jaxb/jaxb-runtime/4.0.4/jaxb-runtime-4.0.4.jar;C:/Users/sucel/.m2/repository/org/glassfish/jaxb/jaxb-core/4.0.4/jaxb-core-4.0.4.jar;C:/Users/sucel/.m2/repository/org/glassfish/jaxb/txw2/4.0.4/txw2-4.0.4.jar;C:/Users/sucel/.m2/repository/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/sucel/Desktop/Üniversite Akademik Yönetim Sistemi/UniversiteYonetimSistemi/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sucel/Desktop/Üniversite Akademik Yönetim Sistemi/UniversiteYonetimSistemi/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UniversiteYonetimSistemi 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'UniversiteYonetimSistemi 1.0-SNAPSHOT API'
+com.cagla.dao
+com.cagla.entity
+com.cagla.service
+com.cagla
+com.cagla.util
+com.cagla.view
+C:\Users\sucel\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\12.4.2.jre11\mssql-jdbc-12.4.2.jre11.jar = 1767125243157
+C:\Users\sucel\.m2\repository\org\hibernate\orm\hibernate-core\6.4.0.Final\hibernate-core-6.4.0.Final.jar = 1767125243774
+C:\Users\sucel\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1767125243199
+C:\Users\sucel\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1767125243222
+C:\Users\sucel\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\4.0.0\jakarta.xml.bind-api-4.0.0.jar = 1767125243295
+C:\Users\sucel\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1767125243292
+C:\Users\sucel\.m2\repository\org\projectlombok\lombok\1.18.30\lombok-1.18.30.jar = 1767125243539
+C:\Users\sucel\.m2\repository\org\glassfish\jaxb\jaxb-runtime\4.0.4\jaxb-runtime-4.0.4.jar = 1767134517930
+C:\Users\sucel\.m2\repository\org\glassfish\jaxb\jaxb-core\4.0.4\jaxb-core-4.0.4.jar = 1767134518024
+C:\Users\sucel\.m2\repository\org\glassfish\jaxb\txw2\4.0.4\txw2-4.0.4.jar = 1767134518023
+C:\Users\sucel\.m2\repository\com\sun\istack\istack-commons-runtime\4.1.2\istack-commons-runtime-4.1.2.jar = 1767134518004
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\src\main\java = 1767121374293
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\allclasses-index.html = 1767736873095
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\allpackages-index.html = 1767736873098
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\element-list = 1767736872892
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\help-doc.html = 1767736873130
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\index-all.html = 1767736873121
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\index.html = 1767736873079
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\member-search-index.js = 1767736873103
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\module-search-index.js = 1767736873099
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\overview-summary.html = 1767736873126
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\overview-tree.html = 1767736873075
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\package-search-index.js = 1767736873100
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\search.html = 1767736873123
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\serialized-form.html = 1767736872996
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\tag-search-index.js = 1767736873104
+C:\Users\sucel\Desktop\Üniversite Akademik Yönetim Sistemi\UniversiteYonetimSistemi\target\reports\apidocs\type-search-index.js = 1767736873101
